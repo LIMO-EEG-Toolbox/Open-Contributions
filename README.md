@@ -1,7 +1,7 @@
 # Open-Contributions
 
-The LIMO-MEEG Toolbox is an open project for statistics in EEGLAB. 
-If you are interested in having a feature and/or want to contribute you most welcome, drop me (@cyril) an email.
+The LIMO-MEEG Toolbox is an open project for statistics in MEEG data, currently well integrated with EEGLAB but we'd love to see it use in other packages. 
+Also, if you are interested in having a feature and/or want to contribute you most welcome, drop me (@cyril) an email.
 
 ## We are inclusive
 
